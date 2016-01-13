@@ -1,0 +1,17 @@
+.inline {
+  display: inline;
+}
+
+.block {
+  display: block;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+div {
+  border: 1px solid red;
+  margin: 20px;
+  width: 30%;
+}

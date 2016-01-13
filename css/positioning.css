@@ -1,0 +1,43 @@
+ul {
+  list-style-type: none;
+  -webkit-padding-start: 10px;
+}
+
+div#main h2 {
+  text-align: center;
+}
+
+#main {
+  position: relative;
+  width: 500px;
+  height: 300px;
+  border: 1px solid orange;
+  margin: 0 auto;
+}
+
+#block1 {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#block2 {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 30%;
+  right: -25px;
+}
+
+#block3 {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  bottom: 5px;
+  left: 10px;
+}
